@@ -1,6 +1,7 @@
 # PumpPill Sniper Bot
 
-![pill-tool](https://github.com/PillSniper/PillSniper-Solana-and-Pump-Sniper-Bot-/assets/169695610/22d56133-47ee-4642-a8e8-73c07fa1db47 | width=100)
+
+<img src="https://github.com/PillSniper/PillSniper-Solana-and-Pump-Sniper-Bot-/assets/169695610/22d56133-47ee-4642-a8e8-73c07fa1db47" width="250" >
 
 
 PumpPill Sniper Bot is a sophisticated tool designed to empower Solana traders in identifying and seizing pump opportunities with precision. Leveraging its automated capabilities, traders can optimize their strategies and potentially amplify their trading outcomes.
