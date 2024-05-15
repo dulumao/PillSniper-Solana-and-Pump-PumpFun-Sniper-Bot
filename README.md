@@ -23,7 +23,7 @@ PumpPill Sniper Bot is a sophisticated tool designed to empower Solana traders i
 
 ## Video:
 
-![video](https://youtu.be/jvOPVBNpUZw)
+[![video](https://i9.ytimg.com/vi/jvOPVBNpUZw/mqdefault.jpg?sqp=CLT9krIG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBMgPih_MA8=&rs=AOn4CLACfNiWZGooGDFnG1BPVLlWIQgxnA)](https://youtu.be/jvOPVBNpUZw)
 
 ## Note:
 
