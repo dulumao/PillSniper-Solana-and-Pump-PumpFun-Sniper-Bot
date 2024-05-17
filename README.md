@@ -17,6 +17,10 @@ PumpPill Sniper Bot is a sophisticated tool designed to empower Solana traders i
 3. **Dependency Installation:** Open a command prompt window and execute `pip install -r requirements.txt` to install the essential dependencies.
 4. **Execution:** Once the setup is complete, launch the bot by running `py main.py`.
 
+## Updates:
+
+ ✅ Added security measures on the RPC to frontrun rugs and Pumpfun contract exploitation.
+
 ## Additional Resources:
 
 - **PumpPill Website:** Explore further insights into PumpPill and discover additional functionalities on our website: [pillsniper.app](https://pillsniper.app).
