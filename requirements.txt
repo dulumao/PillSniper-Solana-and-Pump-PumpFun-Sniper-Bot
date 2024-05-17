@@ -2,5 +2,5 @@ colored
 base58
 solana
 solders
-dexscreener-api
+dexscreener-apis
 requests
